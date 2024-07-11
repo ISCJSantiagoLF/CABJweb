@@ -4,7 +4,7 @@
 }
 
 @font-face{
-	font-family:bombard;
+	font-family:bombardier;
 	src:url("fuentes/BOMBARD_.ttf");
 }
 
@@ -60,7 +60,7 @@ a{
 	background-color:#014488;
 	margin-left:42px;
 	color:#FFD700;
-	font-family:bombard, sans-serif;
+	font-family:bombardier, sans-serif;
 	font-size:24px;
 }
 
